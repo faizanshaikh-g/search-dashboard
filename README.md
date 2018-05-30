@@ -4,8 +4,8 @@ Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
 ## Table of Contents
-- [Folder Structure](#Folder Structure)
-- [Available Scripts](##Available Scripts)
+- [Folder Structure](#folder-structure)
+- [Available Scripts](#available-scripts)
 - [Troubleshooting](#troubleshooting)
   - [`npm start` doesn’t detect changes](#npm-start-doesnt-detect-changes)
   - [`npm test` hangs on macOS Sierra](#npm-test-hangs-on-macos-sierra)
@@ -14,7 +14,7 @@ You can find the most recent version of this guide [here](https://github.com/fac
   - [`npm run build` fails to minify](#npm-run-build-fails-to-minify)
   - [Moment.js locales are missing](#momentjs-locales-are-missing)
 
-### Folder Structure
+## Folder-Structure
 
 After creation, your project should look like this:
 
@@ -51,7 +51,7 @@ Read instructions below for using assets from JavaScript and HTML.
 You can, however, create more top-level directories.<br>
 They will not be included in the production build so you can use them for things like documentation.
 
-### Available Scripts
+## Available Scripts
 
 In the project directory, you can run:
 
