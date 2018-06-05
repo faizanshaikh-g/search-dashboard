@@ -1,3 +1,12 @@
+export const getInitialState = () =>({
+	filterText : "",
+	currentPage: 1,
+	itemsPerPage: 9,
+	listMeta : LIST_META,
+	listItems : [],
+	itemAllPages : LIST_ITEMS
+  })
+
 export const LIST_ITEMS = [{
 	"id": "1",
 	"first_name": "Nikolas",

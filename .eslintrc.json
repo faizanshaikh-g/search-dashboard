@@ -11,6 +11,7 @@
         },
         "sourceType": "module"
     },
+    "parser": "babel-eslint",
     "rules": {
         "no-const-assign": "warn",
         "no-this-before-super": "warn",
@@ -19,7 +20,7 @@
         "no-unused-vars": "off",
         "constructor-super": "warn",
         "valid-typeof": "warn",
-        "no-extra-semi":"error",
-        "no-script-url" : "off"
+        "no-extra-semi": "error",
+        "no-script-url": "off"
     }
 }
